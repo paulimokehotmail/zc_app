@@ -22,7 +22,7 @@
    The figma design that will be implemented for this project can be found [here](https://www.figma.com/file/a9aoc4xi2gjPupffXXRdXS/Team-Socrates?node-id=5461%3A22089) 
 
    ## Hosted App Link
-[Here](https://appetize.io/app/01maqa9k0b50p27nvh22dca3d0)  is the link to the app hosted on appetize
+[Here](https://appetize.io/app/01maqa9k0b50p27nvh22dca3d0) is the link to the app hosted on appetize
  
   **i. Naming Convention**
 
