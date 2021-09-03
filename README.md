@@ -71,7 +71,7 @@ When your task is completed
   * `git commit -m "feat: Inplemented yourTask"`
   
 ### Push New Branch to "Origin" Repository
- - To make sure there are no conflict, Pull from upstream using `git pull upstream develop`
+ - To make sure there are no conflict, Pull from upstream using `git pull upstream dev`
  - Push your branch changes to the Repo using `git push origin "feat/yourTask"` note how it end with a branch.
 
 ### Creating Pull Request
